@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
