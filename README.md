@@ -31,10 +31,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
