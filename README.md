@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
