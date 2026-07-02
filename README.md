@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
@@ -56,6 +58,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
