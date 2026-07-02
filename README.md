@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1480-running-sum-of-1d-array) |
