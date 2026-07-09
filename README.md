@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
+| [1859-sorting-the-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1859-sorting-the-sentence) |
 ## Interactive
 |  |
 | ------- |
