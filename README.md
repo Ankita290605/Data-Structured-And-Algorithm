@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
