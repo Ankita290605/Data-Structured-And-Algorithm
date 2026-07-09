@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
