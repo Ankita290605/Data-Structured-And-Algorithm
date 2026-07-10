@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
