@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
