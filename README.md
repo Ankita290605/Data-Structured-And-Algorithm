@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
