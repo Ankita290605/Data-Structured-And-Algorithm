@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Stack
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1544-make-the-string-great) |
