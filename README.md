@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
