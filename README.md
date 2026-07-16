@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -300,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
