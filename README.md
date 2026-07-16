@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
