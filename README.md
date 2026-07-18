@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2032-two-out-of-three) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2027-minimum-moves-to-convert-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
 |  |
 | ------- |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
