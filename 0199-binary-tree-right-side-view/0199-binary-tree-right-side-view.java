@@ -14,12 +14,10 @@
  * }
  */
 class Solution {
-    int maxlvl = -1;
     public void solve(TreeNode root, List<Integer> ans, int lvl){
         if(root==null) return;
-        if(lvl > maxlvl){
+        if(lvl == ans.size()){
             ans.add(root.val);
-            maxlvl = lvl;
         }
 
         solve(root.right, ans, lvl+1);
