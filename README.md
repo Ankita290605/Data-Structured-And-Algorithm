@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2027-minimum-moves-to-convert-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
