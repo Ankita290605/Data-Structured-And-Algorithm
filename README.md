@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
