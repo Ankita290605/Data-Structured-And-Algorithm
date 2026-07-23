@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
 ## Number Theory
 |  |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
@@ -409,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
