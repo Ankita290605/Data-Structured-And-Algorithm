@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -432,4 +437,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
