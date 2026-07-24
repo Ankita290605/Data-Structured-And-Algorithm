@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
