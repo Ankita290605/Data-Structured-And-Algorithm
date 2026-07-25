@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
