@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0205-isomorphic-strings) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
