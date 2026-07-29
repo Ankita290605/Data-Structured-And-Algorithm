@@ -21,13 +21,11 @@ class Solution {
         if(m<l){
             ans = root.val;
             m = l;
-            //prev = l;
         }
         solve(root.left, l+1);
         solve(root.right, l+1);
     }
     public int findBottomLeftValue(TreeNode root) {
-        
         solve(root, 0);
         return ans;
     }
