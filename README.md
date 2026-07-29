@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
