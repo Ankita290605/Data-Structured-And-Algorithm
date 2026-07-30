@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -518,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
