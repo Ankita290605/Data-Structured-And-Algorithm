@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1200-minimum-absolute-difference](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1859-sorting-the-sentence) |
