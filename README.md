@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
