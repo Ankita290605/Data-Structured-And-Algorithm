@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 ## Queue
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -557,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0113-path-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
