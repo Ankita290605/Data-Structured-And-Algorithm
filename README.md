@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2000-reverse-prefix-of-word) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
+| [0905-sort-array-by-parity](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1200-minimum-absolute-difference) |
