@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1306-jump-game-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1306-jump-game-iii) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
+| [1306-jump-game-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
