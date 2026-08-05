@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
