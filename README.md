@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
@@ -615,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1025-divisor-game) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
