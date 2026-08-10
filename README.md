@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2103-rings-and-rods) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
