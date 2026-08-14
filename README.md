@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
