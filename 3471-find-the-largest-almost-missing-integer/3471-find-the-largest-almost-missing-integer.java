@@ -30,8 +30,7 @@ class Solution {
         }
 
         HashSet<Integer> set = new HashSet<>();
-
-        // Middle elements
+        
         for (int i = 1; i < n - 1; i++) {
             set.add(nums[i]);
         }
