@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1025-divisor-game) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Queue
 |  |
 | ------- |
