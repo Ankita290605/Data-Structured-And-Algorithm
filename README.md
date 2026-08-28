@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1025-divisor-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
