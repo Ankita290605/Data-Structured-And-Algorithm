@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -686,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
