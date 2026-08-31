@@ -29,9 +29,7 @@ class Solution {
         if (arr.size()<=1){
             return new int[]{-1, -1};
         }
-    
 
-        Collections.sort(arr);
 
         int ans[] = new int[2];
 
@@ -46,7 +44,6 @@ class Solution {
         ans[1] = max;
 
         return ans;
-
 
     }
 }
