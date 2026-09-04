@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2032-two-out-of-three) |
@@ -712,4 +716,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
