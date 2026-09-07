@@ -18,10 +18,6 @@ class Solution {
             }
         }
 
-        if(l!=0 || d!=0){
-            return false;
-        }
-
-        return true;
+        return l==0 && d==0;
     }
 }
