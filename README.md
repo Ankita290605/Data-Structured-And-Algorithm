@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
