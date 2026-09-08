@@ -6,7 +6,7 @@ class Solution {
             String s = Integer.toString(i);
 
             if (s.length() >= 4) {
-                count++;
+                count += (s.length() - 1) / 3;
             }
         }
 
