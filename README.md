@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
