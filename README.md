@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
