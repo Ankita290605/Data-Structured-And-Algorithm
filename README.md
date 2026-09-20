@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
