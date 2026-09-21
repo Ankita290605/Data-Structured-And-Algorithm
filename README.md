@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1154-day-of-the-year) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -755,4 +757,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
