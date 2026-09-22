@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
+| [0622-design-circular-queue](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 ## Depth-First Search
 |  |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
