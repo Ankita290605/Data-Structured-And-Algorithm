@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
