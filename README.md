@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0657-robot-return-to-origin) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0835-image-overlap) |
