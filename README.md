@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0897-increasing-order-search-tree) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
