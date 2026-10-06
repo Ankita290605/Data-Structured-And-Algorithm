@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2032-two-out-of-three) |
