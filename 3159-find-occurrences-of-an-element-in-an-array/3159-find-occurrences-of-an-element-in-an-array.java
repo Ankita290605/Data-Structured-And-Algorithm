@@ -1,0 +1,22 @@
+class Solution { 
+    public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {   ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) { 
+            if (nums[i] == x) { 
+                list.add(i); 
+            } 
+        } 
+        int[] ans = new int[queries.length];
+        for (int i = 0; i < queries.length; i++) { 
+            int occurrence = queries[i]; 
+            if (occurrence <= list.size()) { 
+                ans[i] = list.get(occurrence - 1); 
+            } 
+            else { 
+                ans[i] = -1; 
+            } 
+        } 
+        return ans; 
+        
+    }
+    
+}
