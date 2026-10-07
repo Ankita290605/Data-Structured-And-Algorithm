@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
