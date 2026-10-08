@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2032-two-out-of-three) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
