@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0326-power-of-three) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
