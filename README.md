@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0877-stone-game) |
