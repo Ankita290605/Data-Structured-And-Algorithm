@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
