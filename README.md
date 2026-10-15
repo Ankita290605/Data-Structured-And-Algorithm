@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2103-rings-and-rods) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -853,4 +855,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0322-coin-change) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
