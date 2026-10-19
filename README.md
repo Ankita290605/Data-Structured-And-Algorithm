@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0739-daily-temperatures) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1763-longest-nice-substring) |
