@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0506-relative-ranks) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0567-permutation-in-string) |
