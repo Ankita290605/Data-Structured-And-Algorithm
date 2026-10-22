@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0113-path-sum-ii) |
 ## Game Theory
 |  |
