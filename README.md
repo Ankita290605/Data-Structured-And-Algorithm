@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
