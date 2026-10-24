@@ -1,4 +1,3 @@
-
 class Solution {
     private int getDay(String date) {
         int[] days = {
@@ -18,21 +17,10 @@ class Solution {
         return total;
     }
 
-    public int countDaysTogether(
-        String arriveAlice,
-        String leaveAlice,
-        String arriveBob,
-        String leaveBob
-    ) {
-        int start = Math.max(
-            getDay(arriveAlice),
-            getDay(arriveBob)
-        );
+    public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
+        int start = Math.max(getDay(arriveAlice), getDay(arriveBob));
 
-        int end = Math.min(
-            getDay(leaveAlice),
-            getDay(leaveBob)
-        );
+        int end = Math.min(getDay(leaveAlice), getDay(leaveBob));
 
         return Math.max(0, end - start + 1);
     }
