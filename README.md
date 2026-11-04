@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0063-unique-paths-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0118-pascals-triangle) |
