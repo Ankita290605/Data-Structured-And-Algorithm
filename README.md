@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0657-robot-return-to-origin) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0125-valid-palindrome) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0189-rotate-array) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0342-power-of-four) |
