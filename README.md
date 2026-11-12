@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
