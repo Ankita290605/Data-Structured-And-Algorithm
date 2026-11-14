@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
