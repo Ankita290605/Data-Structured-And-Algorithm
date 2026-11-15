@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1598-crawler-log-folder](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3693-climbing-stairs-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3693-climbing-stairs-ii) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
