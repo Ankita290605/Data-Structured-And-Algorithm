@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/4103-remove-elements-by-type-and-color) |
 ## Simulation
 |  |
 | ------- |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Ankita290605/Data-Structured-And-Algorithm/tree/master/4103-remove-elements-by-type-and-color) |
 ## Tree
 |  |
 | ------- |
